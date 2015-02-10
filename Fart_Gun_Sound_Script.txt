@@ -1,0 +1,32 @@
+"Weapon_Gamamet.Fart"
+{
+"channel"	"CHAN_WEAPON"
+"volume"	"VOL_NORM"
+"soundlevel"	"SNDLVL_NORM"
+
+"wave"	"weapons/gama/fart_loop.wav"
+}
+
+"Weapon_Gamamet.FartStop"
+{
+"channel"	"CHAN_WEAPON"
+"volume"	"VOL_NORM"
+"soundlevel"	"SNDLVL_NORM"
+
+"wave"	"weapons/gama/fart_stop_01.wav"
+}
+
+"Weapon_Gamamet.Reload"
+{
+"channel"	"CHAN_WEAPON"
+"volume"	"VOL_NORM"
+"soundlevel"	"SNDLVL_NORM"
+
+"rndwave"
+{
+"wave"	"weapons/gama/fartgun_reload_01.wav"
+"wave"	"weapons/gama/fartgun_reload_02.wav"
+"wave"	"weapons/gama/fartgun_reload_03.wav"
+"wave"	"weapons/gama/fartgun_reload_04.wav"
+}
+}
